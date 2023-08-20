@@ -1,0 +1,926 @@
+Brand,Model,Type,Gender,Size,Color,Material,Price
+Nike,Air Jordan 1,0,0,10.0,Red/Black,Leather,12835.0
+Adidas,Ultra Boost 21,10,0,9.5,Black,Primeknit,13590.0
+Reebok,Classic Leather,1,0,11.0,White,Leather,5662.5
+Converse,Chuck Taylor,1,1,8.0,Navy,Canvas,4152.5
+Puma,Future Rider,7,1,7.5,Pink,Mesh,6040.0
+Vans,Old Skool,11,0,8.5,Black/White,Suede/Canvas,4907.5
+New Balance,990v5,10,1,6.5,Grey,Suede/Mesh,13212.5
+Asics,Gel-Kayano 28,10,0,10.5,Blue,Mesh,12080.0
+Fila,Disruptor II,5,1,9.0,White,Leather/Synthetic,4907.5
+Skechers,Go Run Razor 3,10,0,9.0,Black,Mesh,8305.0
+Nike,Air Max 270,10,1,7.0,Pink,Mesh,11325.0
+Adidas,Stan Smith,1,0,9.0,White/Green,Leather,6040.0
+Reebok,Club C 85,1,1,8.5,Pink,Leather,5285.0
+Converse,One Star,11,0,10.0,Black,Suede,5662.5
+Puma,RS-Fast,7,0,9.5,Yellow,Leather/Synthetic,8305.0
+Vans,Authentic,11,1,6.0,White,Canvas,3775.0
+New Balance,Fresh Foam 1080v11,10,0,11.5,Blue,Mesh,11325.0
+Asics,Gel-Nimbus 23,10,1,8.0,Purple,Mesh,11325.0
+Fila,Ray Tracer,5,0,10.0,Black,Synthetic,5285.0
+Skechers,Arch Fit,16,1,7.5,Grey,Mesh,5285.0
+Nike,Air Force 1,1,0,10.0,White,Leather,6795.0
+Adidas,NMD_R1,10,1,8.5,Black/Pink,Primeknit,10570.0
+Reebok,Zig Kinetica II,10,0,11.0,White,Mesh,9060.0
+Converse,Jack Purcell,1,1,7.5,Navy,Canvas,4907.5
+Puma,Calibrate Runner,10,0,9.5,Black,Mesh,6040.0
+Vans,Sk8-Hi,11,1,8.0,Black/White,Suede/Canvas,5285.0
+New Balance,327,7,0,10.0,Blue/Orange,Suede/Mesh,6795.0
+Asics,Gel-Quantum 180,10,1,9.0,Grey,Mesh/Synthetic,9060.0
+Fila,Mindblower,5,0,8.5,White,Leather/Synthetic,5662.5
+Skechers,D'Lites,16,1,7.0,Black,Synthetic,4907.5
+Nike,Air Max 2090,10,0,9.0,Grey,Mesh,11325.0
+Adidas,Adizero Adios 5,10,1,7.5,Blue,Mesh,12835.0
+Reebok,Nano 9,2,0,10.0,Black,Mesh/Synthetic,9815.0
+Converse,Chuck 70,1,1,9.0,Pink,Canvas,6417.5
+Puma,Future Rider Play,7,0,9.0,Black/Red,Synthetic,6795.0
+Vans,Slip-On,11,1,7.0,Checkered,Canvas,3775.0
+New Balance,574,1,0,9.0,Black/Grey,Suede/Textile,6040.0
+Asics,Gel-Kayano 27,10,1,8.5,Purple,Mesh/Synthetic,12080.0
+Fila,Venom,5,0,9.5,White/Red,Leather/Synthetic,4907.5
+Skechers,Go Walk 5,16,1,7.5,Black,Mesh,4530.0
+Nike,Air Force 1,1,0,11.0,White,Leather,6795.0
+Adidas,NMD_R1,10,1,9.0,Black,Knit,10570.0
+Reebok,Zig Kinetica II,10,0,9.5,White,Mesh,9060.0
+Converse,Jack Purcell,1,0,10.0,White,Canvas,4907.5
+Puma,Suede Classic,1,1,8.5,Beige,Suede,4907.5
+Vans,Sk8-Hi,11,0,8.0,Black/White,Suede/Canvas,5285.0
+New Balance,327,1,1,7.5,Orange,Suede/Mesh,7550.0
+Asics,Gel-Kayano 28,10,1,7.0,White,Mesh,12080.0
+Fila,Original Fitness,1,0,11.0,White/Navy,Leather,5285.0
+Skechers,Go Walk 5,16,1,8.0,Black,Mesh,4530.0
+Nike,Free RN 5.0,10,0,10.0,Grey,Mesh,7550.0
+Adidas,Adilette Cloudfoam,12,1,6.0,Black,Synthetic,2642.5
+Reebok,Nano 9,4,0,10.5,Black,Mesh,9815.0
+Converse,Chuck 70,1,1,7.5,Pink,Canvas,6417.5
+Puma,Clyde All Pro,0,0,9.5,Black/Red,Leather,9815.0
+Vans,Era,11,1,6.5,White,Canvas,4152.5
+New Balance,Fresh Foam More v2,10,0,12.0,Black/Grey,Mesh,12457.5
+Asics,GT-2000 10,10,1,7.0,Blue,Mesh,9060.0
+Fila,Mindblower,1,0,9.5,White/Blue,Leather/Synthetic,5662.5
+Skechers,Dynamight 2.0,15,1,9.0,Black,Mesh,3775.0
+Nike,Air Force 1,0,0,11.0,White,Leather,6795.0
+Adidas,NMD_R1,7,1,7.0,Pink,Primeknit,9815.0
+Reebok,Nano X1,15,0,9.0,Black,Knit,9815.0
+Converse,Chuck 70,1,1,8.5,Yellow,Canvas,6417.5
+Puma,Clyde All-Pro,0,0,10.0,Red,Leather,9815.0
+Vans,Sk8-Hi,11,1,7.0,Black,Suede,5285.0
+New Balance,Fresh Foam 1080v11,10,1,8.0,Green,Mesh,11325.0
+Asics,Gel-Quantum 360,10,0,11.0,Blue,Mesh,12835.0
+Fila,D-Formation,1,1,8.5,White,Leather,4907.5
+Skechers,Max Cushioning,10,0,8.5,Black,Mesh,6795.0
+Nike,Air Max 90,7,1,6.0,Grey,Leather,9060.0
+Adidas,Yeezy Boost 350,7,0,10.0,Black,Primeknit,16610.0
+Reebok,Classic Nylon,1,1,7.5,Pink,Nylon,4907.5
+Converse,Jack Purcell,1,0,9.0,White,Canvas,4907.5
+Puma,Calibrate Runner,10,1,9.0,Grey,Mesh,9060.0
+Vans,Era,11,0,9.5,Red,Canvas,3775.0
+New Balance,FuelCell Echo,10,1,7.0,Pink,Mesh,7550.0
+Asics,GT-2000 9,10,0,10.5,Black,Mesh,9060.0
+Fila,Original Fitness,1,1,7.0,White,Leather,4530.0
+Skechers,Elite Flex,16,0,10.0,Navy,Mesh,4907.5
+Nike,Blazer Low,7,1,7.5,White,Leather,6417.5
+Nike,Air Force 1,0,0,10.0,White,Leather,6795.0
+Adidas,NMD_R1,7,0,8.5,Black,Primeknit,10570.0
+Reebok,Nano X1,15,1,7.5,Grey,Flexweave,9815.0
+Puma,Clyde All-Pro,0,0,11.0,Red/White,Leather,9060.0
+Vans,SK8-Hi,11,1,6.0,Black,Suede/Canvas,5285.0
+New Balance,574,1,0,10.0,Navy,Suede/Mesh,6040.0
+Asics,Gel-Lyte III NS,1,1,8.0,Pink,Mesh,7550.0
+Fila,Mindblower,5,0,9.5,White,Leather/Synthetic,5662.5
+Skechers,Max Cushioning,10,1,7.0,Black,Mesh,5662.5
+Nike,React Infinity Run Flyknit 2,10,0,9.5,Blue,Flyknit,12080.0
+Adidas,Harden Stepback,0,0,12.0,Grey,Synthetic,6040.0
+Reebok,Classic Nylon,1,1,7.5,Black,Nylon,4907.5
+Converse,Chuck 70,1,0,8.0,Yellow,Canvas,6417.5
+Puma,Calibrate Runner,10,0,10.5,Black/Yellow,Mesh,6040.0
+Vans,Era,11,1,7.0,Green,Canvas,4152.5
+New Balance,FuelCell Propel V3,10,1,6.5,Purple,Mesh,7550.0
+Asics,Gel-Kayano 28 Lite-Show,10,0,11.0,Black,Mesh,12835.0
+Fila,Trailblazer,5,1,8.0,White/Pink,Leather,4907.5
+Skechers,Summits - Quick Getaway,16,0,9.0,Grey,Mesh,4530.0
+Nike,Air Zoom Tempo NEXT% FlyEase,10,1,8.5,White,Mesh,15100.0
+Nike,React Infinity Run 2,10,1,7.5,Grey,Mesh,12080.0
+Adidas,Superstar,1,0,8.5,Black/White,Leather,6040.0
+Reebok,Zig Kinetica Horizon,10,1,6.5,Blue,Mesh,9060.0
+Converse,Chuck 70,1,0,9.0,White,Canvas,6417.5
+Puma,Cali Sport,7,1,9.5,White,Leather,6795.0
+Vans,Sk8-Hi,11,0,10.0,Black/White,Suede/Canvas,5285.0
+New Balance,990v5,10,0,9.5,Grey,Suede/Mesh,13212.5
+Asics,Gel-Venture 8,13,1,8.5,Blue,Mesh,5285.0
+Fila,Mindblower,5,0,11.0,White,Synthetic,5662.5
+Skechers,Go Run Mojo,10,1,7.0,Black,Mesh,4530.0
+Nike,Air Zoom Pegasus 38,10,0,11.0,Black,Mesh,9060.0
+Adidas,Ultraboost 5.0 DNA,10,1,8.5,Grey,Primeknit,13590.0
+Reebok,Classic Leather Legacy,1,0,9.5,White,Leather,6040.0
+Converse,Jack Purcell,1,1,6.0,Navy,Canvas,4907.5
+Puma,RS-Fast Tech,7,0,9.5,Black/Red,Synthetic,8305.0
+Vans,Era,11,1,7.5,Black/White,Canvas,3775.0
+New Balance,Fresh Foam Roav,10,0,10.0,Red,Mesh,6040.0
+Asics,GT-2000 10,10,1,9.0,Black,Mesh,9060.0
+Fila,Original Fitness,5,0,10.0,White,Leather,4530.0
+Skechers,Max Cushioning Elite,16,1,8.0,Navy,Mesh,6040.0
+Nike,Air Force 1 '07,0,0,11.0,White,Leather,6795.0
+Adidas,NMD_R1,10,1,8.0,Pink,Primeknit,10570.0
+Reebok,Nano 9,15,0,9.5,Black/White,Mesh,9815.0
+Converse,Jack Purcell,1,1,7.5,White,Canvas,4907.5
+Puma,Calibrate Runner,10,0,10.0,Black/Grey,Mesh/Synthetic,6795.0
+Vans,Sk8-Hi,11,1,9.0,Black/White,Canvas,4907.5
+New Balance,FuelCell Rebel v2,10,0,9.5,Blue/White,Mesh,9815.0
+Asics,Gel-Kinsei OG,10,1,7.5,White/Grey,Mesh/Leather,13590.0
+Fila,Spaghetti,5,0,8.0,White/Navy,Leather/Synthetic,4907.5
+Skechers,Go Walk 5,16,1,6.5,Black,Mesh,4530.0
+Nike,ZoomX Invincible Run,10,0,11.0,Black,Mesh/Synthetic,13590.0
+Adidas,Ultraboost DNA,10,1,8.0,Grey,Primeknit,13590.0
+Reebok,Classic Nylon,1,0,10.5,Black,Nylon,4530.0
+Converse,Run Star Hike,1,1,8.0,Cream,Canvas,8305.0
+Puma,Suede Classic+,1,0,8.0,Red/White,Suede,4907.5
+Vans,Era,11,1,7.5,Green,Canvas,3775.0
+New Balance,Fresh Foam More v3,10,0,11.0,Black/Grey,Mesh/Synthetic,12457.5
+Asics,Gel-Quantum 90 3,10,1,9.0,Pink,Mesh/Synthetic,6795.0
+Fila,Original Fitness,1,0,9.5,White/Navy/Red,Leather,4530.0
+Skechers,Go Run Mojo Pep,10,1,8.5,Black/White,Mesh,4152.5
+Adidas,NMD_R1,10,1,8.5,Pink,Primeknit,9815.0
+Reebok,Zig Kinetica II,10,0,9.0,Blue,Mesh,9060.0
+Converse,Chuck 70,1,1,7.0,Black,Canvas,6417.5
+Puma,Clyde All-Pro,0,0,10.0,White,Leather,9815.0
+Vans,Sk8-Hi,11,1,9.0,Black/White,Suede/Canvas,4907.5
+New Balance,574 Classic,1,0,10.5,Grey,Suede/Mesh,6040.0
+Asics,Gel-Quantum 90 3,10,1,7.5,Black,Mesh,5285.0
+Fila,Mindblower,5,0,11.0,Grey,Leather/Synthetic,5662.5
+Skechers,Max Cushioning Premier,10,1,7.5,Pink,Mesh,6795.0
+Nike,Blazer Mid '77,1,0,9.5,White,Leather,7550.0
+Adidas,Superstar,1,1,7.5,Black/White,Leather,6417.5
+Reebok,DMX Thrill,10,0,10.0,Black,Mesh,5285.0
+Converse,Jack Purcell,1,1,8.5,White,Canvas,4907.5
+Puma,Calibrate Runner,10,0,9.5,Black/Yellow,Mesh,10570.0
+Vans,Slip-On,11,1,6.5,Checkered,Canvas,3775.0
+New Balance,Fresh Foam Beacon V3,10,0,11.0,Blue,Mesh,9060.0
+Asics,Gel-Venture 8,13,1,9.5,Grey,Mesh,5285.0
+Fila,F-13,5,0,10.0,White,Leather,5285.0
+Skechers,Equalizer 4.0,15,1,8.5,Black,Mesh,4907.5
+Nike,KD13,0,0,11.0,Blue,Mesh,11325.0
+Nike,React Infinity Run Flyknit 2,10,1,9.5,Black/White,Flyknit,12080.0
+Adidas,NMD_R1,7,0,11.5,Grey,Primeknit,10570.0
+Reebok,Aztrek 96,1,1,8.5,Yellow/Black,Leather/Synthetic,6795.0
+Converse,Jack Purcell,1,0,9.0,Navy/White,Canvas,5285.0
+Puma,Calibrate Runner,10,0,10.0,Black,Mesh,7550.0
+Vans,Sk8-Hi,11,1,7.5,Black/White,Suede/Canvas,4907.5
+New Balance,327,1,0,10.0,Green,Suede/Leather,6795.0
+Asics,GT-2000 10,10,1,8.0,Blue,Mesh,9060.0
+Fila,Trailblazer,5,0,9.0,White/Grey,Leather,6417.5
+Skechers,Max Cushioning Premier,10,1,7.0,Grey/Pink,Mesh,7927.5
+Nike,Blazer Mid '77,1,0,8.5,Green,Leather,7550.0
+Adidas,Ultraboost 6.0,10,1,7.5,Black/White,Primeknit,13590.0
+Reebok,Classic Nylon,1,0,11.5,Blue/White,Nylon,4530.0
+Converse,Pro Leather,1,1,9.5,White/Green,Leather,5662.5
+Puma,Clyde All-Pro,0,0,9.5,Black,Leather/Synthetic,9815.0
+Vans,Era 95 DX,11,1,6.5,Black/White,Canvas,4907.5
+New Balance,Fresh Foam More v3,10,0,10.0,Black/Grey,Mesh,12457.5
+Asics,Gel-Quantum 360 6,10,1,9.0,Grey/Green,Mesh,13590.0
+Fila,Spaghetti,0,0,10.5,White,Leather,5662.5
+Skechers,Uno Bold Move,1,1,8.5,Black/White,Synthetic,5285.0
+Nike,Air Force 1,0,0,10.0,White,Leather,7550.0
+Adidas,NMD_R1,7,1,8.0,Grey,Primeknit,10570.0
+Reebok,Nano X1,15,0,9.5,Black,Knit,9815.0
+Converse,Jack Purcell,1,1,6.5,Navy,Canvas,4907.5
+Puma,Calibrate Runner,10,0,11.0,Black,Mesh,6040.0
+Vans,Sk8-Hi,11,1,7.5,Black/White,Canvas/Suede,5285.0
+New Balance,327,7,0,10.0,Beige,Suede/Mesh,7550.0
+Asics,Gel-Excite 8,10,1,9.0,Pink,Mesh,5662.5
+Fila,Memory Fresh 2,16,0,10.0,White,Synthetic,4530.0
+Skechers,Energy Burst,10,1,8.0,Black,Mesh,5285.0
+Nike,Flyknit Trainer,10,0,10.0,Black/White,Flyknit,11325.0
+Adidas,Ultraboost 4.0,10,1,7.0,Blue,Primeknit,13590.0
+Reebok,Floatride Energy,10,0,10.5,Grey,Mesh,7550.0
+Converse,Chuck 70 High,1,1,9.0,Pink,Canvas,6417.5
+Puma,Clyde All-Pro,0,0,9.0,White,Leather,9815.0
+Vans,Era,11,1,8.5,Black,Canvas,3775.0
+New Balance,Fresh Foam Beacon v3,10,0,12.0,Blue,Mesh,9060.0
+Asics,Gel-Kayano 27,10,1,8.5,Black,Mesh,12080.0
+Fila,Trailblazer,5,0,11.0,Black,Leather,5662.5
+Skechers,Equalizer 4.0,16,1,7.0,Grey,Mesh,4530.0
+Nike,Blazer Mid '77,1,0,9.5,White/Red/Navy,Leather,7550.0
+Adidas,Superstar,1,1,7.5,White/Black,Leather,6040.0
+Reebok,Zig Kinetica,10,0,11.5,White/Black,Mesh,9060.0
+Converse,Jack Purcell,1,0,8.5,White/Navy,Canvas,5285.0
+Puma,Suede Classic,1,1,8.5,Pink,Suede,4907.5
+Vans,Sk8-Hi,11,0,10.0,Black/White,Canvas,5285.0
+New Balance,Fresh Foam More,10,1,9.0,Grey/Purple,Mesh,12457.5
+Asics,Gel-Kayano 27,10,0,10.5,Black/Green,Mesh,12080.0
+Fila,Trailblazer,5,1,7.0,Cream,Synthetic,5662.5
+Skechers,D'Lites Fresh Start,16,0,9.5,White/Black,Leather,5285.0
+Nike,Air Force 1,1,1,8.5,White/Red,Leather,6795.0
+Adidas,NMD_R1,1,0,9.0,Black/White,Primeknit,9815.0
+Reebok,Club C 85 MU,1,0,11.0,White/Black,Leather,5662.5
+Converse,Chuck 70,1,1,8.5,Cream,Canvas,6417.5
+Puma,Calibrate Runner,10,0,8.5,Black/Blue,Mesh,9060.0
+Vans,Era,11,1,7.0,Pink/White,Canvas,3775.0
+New Balance,FuelCell Propel v2,10,0,9.0,Blue/Green,Mesh,7550.0
+Asics,Gel-Cumulus 23,10,1,8.5,Pink/White,Mesh,9060.0
+Fila,Mindblower,5,0,10.0,White/Black,Synthetic,5662.5
+Adidas,NMD_R1,7,1,8.0,Pink,Primeknit,10570.0
+Reebok,Nano X1,15,0,9.5,Grey,Knit,9815.0
+Converse,All Star Hi,1,1,7.0,Black,Canvas,4530.0
+Puma,Calibrate Runner,10,0,10.5,Blue,Mesh,6795.0
+Vans,Sk8-Hi,11,1,6.0,Red/White,Canvas,5285.0
+New Balance,327,7,0,8.5,Green,Suede/Mesh,7550.0
+Asics,Gel-Quantum 180,10,1,7.5,Grey,Mesh,9060.0
+Fila,Mindblower,5,0,9.0,White,Leather,5285.0
+Skechers,Max Cushioning,16,1,9.0,Black,Mesh,5662.5
+Nike,React Infinity Run Flyknit,10,0,12.0,Black,Flyknit,12080.0
+Adidas,Adilette Comfort,12,1,6.0,Black,Synthetic,2642.5
+Reebok,Classic Nylon,1,0,10.0,Grey,Nylon,4907.5
+Converse,Chuck 70,1,1,8.0,Cream,Canvas,6417.5
+Puma,RS-X3 Puzzle,7,0,8.5,Black/Yellow,Synthetic,8305.0
+Vans,Era,11,1,7.0,Pink,Canvas,4152.5
+New Balance,990v4,10,0,9.5,Grey,Suede/Mesh,13212.5
+Asics,GT-2000 10,10,1,9.0,Blue,Mesh,9060.0
+Fila,D-Formation,5,0,11.0,White,Leather,4907.5
+Skechers,Equalizer 4.0,15,1,8.5,Black,Knit,5285.0
+Nike,Air Zoom Pegasus 38,10,0,10.5,Blue,Mesh,9060.0
+Adidas,Yeezy Boost 350 V2,5,0,9.0,Zebra,Primeknit,16610.0
+Reebok,Nano X1 Adventure,15,0,10.0,Khaki,Textile/Leather,9815.0
+Converse,Jack Purcell Low,1,1,7.5,Pink,Canvas,4907.5
+Puma,Clyde All-Pro,0,0,10.5,Black/White,Leather/Suede,9815.0
+Vans,Sk8-Hi,11,1,9.0,Checkerboard,Canvas,5285.0
+New Balance,Fresh Foam Hierro v6,13,0,9.5,Grey/Yellow,Synthetic/Mesh,10192.5
+Asics,Gel-Quantum 180 5,10,1,8.0,Pink,Mesh,9060.0
+Fila,D-Formation,5,0,11.0,Black,Leather,4907.5
+Skechers,Arch Fit Refine,16,1,6.5,Navy,Mesh,4907.5
+Nike,Air Zoom Pegasus 38,10,0,12.0,Blue,Mesh,9060.0
+Adidas,NMD_R1,1,1,8.5,Pink,Primeknit,9815.0
+Reebok,Floatride Energy 3,10,0,9.0,Black,Mesh,7550.0
+Converse,Chuck 70 High,1,0,12.0,Green,Canvas,6417.5
+Puma,Calibrate Runner,10,1,9.0,White,Mesh,6795.0
+Vans,Era,11,0,8.5,Black,Canvas,3775.0
+New Balance,FuelCell Rebel v2,10,1,7.5,Orange,Mesh,9815.0
+Asics,Gel-Cumulus 23,10,0,11.0,Grey,Mesh,9060.0
+Fila,Mindblower,5,1,7.0,White,Leather/Synthetic,4907.5
+Skechers,GOrun Mojo 2.0,10,0,8.0,Black,Mesh,4530.0
+Adidas,NMD_R1,10,1,8.5,Pink,Knit,10570.0
+Reebok,ZigWild Trail 7,13,0,9.5,Black,Mesh/Synthetic,8305.0
+Converse,Jack Purcell,1,1,7.0,Blue,Canvas,4907.5
+Puma,Calibrate Runner,10,0,10.0,Grey,Mesh,6795.0
+Vans,SK8-Hi,11,1,6.5,Black/White,Canvas/Leather,5285.0
+New Balance,FuelCell Rebel v2,10,1,7.0,White/Pink,Mesh,8305.0
+Asics,Gel-Kahana 8,10,0,8.0,Grey,Mesh,6417.5
+Fila,Mindblower,5,1,7.5,White/Pink,Leather/Synthetic,4907.5
+Skechers,Max Cushioning,10,0,11.0,Black,Mesh,6417.5
+Nike,Air Max 2090,10,0,12.0,Black,Mesh/Synthetic,11325.0
+Adidas,Superstar,1,1,9.5,White/Black,Leather,6417.5
+Reebok,Nano 9,15,0,10.0,Blue,Synthetic,9815.0
+Converse,Pro Leather,1,0,9.5,White/Green,Leather,6040.0
+Puma,RS-X³,7,1,8.5,Pink,Mesh,8305.0
+Vans,Slip-On,1,0,10.5,Black/White,Canvas,3775.0
+New Balance,Fresh Foam More v3,10,0,12.0,Black/Grey,Mesh,12457.5
+Asics,GT-1000 9,10,1,6.5,Blue,Mesh,6795.0
+Fila,T1 Mid,1,0,11.0,White,Leather,4907.5
+Skechers,Go Walk 5,16,1,8.5,Black,Mesh,4530.0
+Nike,Air Force 1,1,0,9.5,White,Leather,6795.0
+Adidas,NMD_R1,7,1,7.0,Black/Pink,Knit,10570.0
+Reebok,Nano X1,4,0,10.0,Black,Mesh,9815.0
+Converse,Chuck 70,1,1,8.5,Ivory,Canvas,6417.5
+Puma,Calibrate,10,0,8.5,Grey,Mesh,9815.0
+Vans,SK8-Hi,11,0,9.5,Black/White,Canvas,5285.0
+New Balance,574,1,1,7.0,Pink,Suede,6040.0
+Asics,Gel-Quantum 180 6,10,0,11.0,Black,Mesh,9060.0
+Fila,Mindblower,5,1,8.0,White,Leather/Synthetic,4907.5
+Skechers,Max Cushioning,10,1,7.5,Black,Mesh,6795.0
+Nike,Free RN Flyknit,10,0,10.0,Blue,Knit,9815.0
+Adidas,Adizero Boston 9,10,1,6.5,Black,Mesh,9060.0
+Converse,Run Star Hike,1,1,8.5,White,Canvas,8305.0
+Puma,Ralph Sampson,1,0,11.0,White/Green,Leather,6040.0
+Vans,Era,11,1,7.0,Black,Canvas,4152.5
+New Balance,990v4,10,0,10.5,Grey,Suede/Mesh,13212.5
+Asics,Gel-Kayano 27,10,1,9.0,Black,Mesh,12080.0
+Fila,D-Formation,5,0,9.0,White,Leather,5285.0
+Skechers,D'Lites,16,1,8.0,White,Leather,4907.5
+Nike,Air Max 2090,10,0,9.0,Grey,Synthetic,11325.0
+Nike,Air Force 1 Low,1,0,9.5,White,Leather,6795.0
+Adidas,NMD_R1,7,1,7.5,Pink/White,Primeknit,9815.0
+Reebok,Zig Kinetica II,10,0,11.0,Black,Mesh,9060.0
+Converse,Chuck 70 High,1,0,8.5,Cream,Canvas,6417.5
+Puma,Calibrate Runner,10,1,8.0,Black,Mesh,6795.0
+New Balance,327,7,1,6.5,White/Green,Suede/Mesh,6795.0
+Asics,Gel-Quantum 90,10,0,10.0,Blue,Mesh,6795.0
+Fila,Original Fitness,5,1,7.5,White/Navy,Leather/Synthetic,4907.5
+Skechers,Go Walk 5,16,0,9.0,Grey,Mesh,4907.5
+Nike,React Infinity Run Flyknit,10,1,8.0,Black,Flyknit,12080.0
+Adidas,Superstar,1,0,8.5,White/Black,Leather,6417.5
+Reebok,Nano 9,4,1,7.0,Grey,Mesh,9815.0
+Converse,Run Star Hike,1,1,9.0,White,Canvas,7550.0
+Puma,RS-2K,7,0,10.0,White,Leather/Synthetic,9060.0
+Vans,Era,11,1,6.5,Black/White,Canvas,3775.0
+New Balance,FuelCell Propel v3,10,0,9.5,Blue/Orange,Mesh,7550.0
+Asics,Gel-Kinsei OG,10,1,8.5,White/Black,Mesh,13590.0
+Fila,Trigate,5,0,9.5,White/Navy/Red,Synthetic,4530.0
+Skechers,Summits,16,1,7.5,Black/Pink,Mesh,4530.0
+Nike,Air Force 1 Low,1,0,9.0,White,Leather,6795.0
+Adidas,NMD_R1,7,1,7.0,Pink,Primeknit,10570.0
+Reebok,Zig Kinetica,10,0,11.0,Black,Mesh,9060.0
+Converse,Chuck 70,1,0,8.0,Grey,Canvas,6417.5
+Puma,Clyde All-Pro,0,0,10.5,White,Leather,9815.0
+Vans,SK8-Hi,11,1,7.0,Black/White,Suede/Canvas,5285.0
+New Balance,990v2,10,0,10.0,Grey,Suede/Mesh,13212.5
+Asics,Gel-Quantum 360 6,10,1,8.0,Black,Mesh,11325.0
+Fila,Original Fitness,1,0,9.0,White/Navy,Leather,4530.0
+Skechers,Max Cushioning Premier,10,0,8.5,Grey,Mesh,6795.0
+Nike,Blazer Mid,1,1,7.5,Red,Leather,7550.0
+Adidas,Superstar,1,0,10.0,White/Black,Leather,6040.0
+Reebok,Classic Nylon,1,1,8.0,Black/White,Nylon/Suede,4907.5
+Converse,All Star Pro BB,0,0,11.0,Black,Canvas,9060.0
+Puma,Calibrate Runner,10,1,6.5,Blue,Mesh,9060.0
+New Balance,Fresh Foam More v3,10,1,7.5,Grey,Mesh,12457.5
+Asics,GT-2000 10,10,0,9.5,Black,Mesh,9060.0
+Fila,D-Formation,1,1,8.5,White,Leather,5285.0
+Skechers,Equalizer 4.0,16,0,12.0,Navy,Mesh,4907.5
+Nike,React Infinity Run Flyknit 2,10,1,9.0,Purple,Flyknit,12080.0
+Adidas,Yeezy Boost 350 V2,5,1,8.5,Cream,Primeknit,16610.0
+Reebok,Zig Kinetica,10,0,12.0,Black,Mesh,9060.0
+Converse,Chuck 70,1,1,7.0,Egret,Canvas,6417.5
+Puma,Calibrate Runner,10,0,8.5,Black,Mesh,6040.0
+Vans,Sk8-Hi,11,1,9.0,Black/White,Canvas,5285.0
+New Balance,FuelCell Rebel v2,10,0,10.5,Blue,Mesh,9815.0
+Asics,Gel-Quantum 90,10,1,7.0,Black,Mesh,6040.0
+Fila,Tracer,5,0,9.5,White/Navy,Leather/Synthetic,4907.5
+Skechers,D'Lites,16,1,6.5,Black/White,Synthetic,4907.5
+Nike,React Infinity Run Flyknit 2,10,0,9.0,Black,Flyknit,12080.0
+Adidas,NMD_R1 V2,1,1,6.5,Pink,Primeknit,9815.0
+Reebok,Club C Legacy,1,0,11.0,Green,Leather,6040.0
+Puma,Clyde All-Pro,0,0,10.0,Black,Leather,9815.0
+Vans,Slip-On,1,1,8.5,Black,Canvas,3775.0
+New Balance,Fresh Foam Hierro v6,14,0,10.0,Grey/Orange,Synthetic/Mesh,10192.5
+Asics,GT-2000 10,10,1,9.0,Black/Pink,Mesh,9060.0
+Fila,Ray,5,0,11.0,White,Synthetic,4907.5
+Skechers,Ultra Flex 2.0,16,1,7.5,Navy/White,Mesh,4530.0
+Nike,React Infinity Run,10,1,9.5,Grey/Pink,Mesh,12080.0
+Adidas,Ultraboost 5.0 DNA,10,0,9.0,White,Primeknit,13590.0
+Reebok,Nano X1,15,1,8.5,Black,Flexweave/Knit,9815.0
+Converse,Jack Purcell,1,0,11.0,White,Canvas,5662.5
+Puma,Calibrate Runner,10,0,10.0,Grey/Black,Mesh,6795.0
+Vans,Sk8-Hi,11,1,7.0,Black/White,Canvas/Suede,4907.5
+New Balance,327,7,0,8.5,Blue/Orange,Suede/Nylon,6795.0
+Asics,Gel-Cumulus 23,10,1,7.5,Pink,Mesh,9060.0
+Fila,Trailblazer,5,0,9.0,Green/Orange,Leather/Synthetic,6040.0
+Skechers,Go Walk Joy,16,1,6.5,Black,Mesh,4151.74
+Nike,Blazer Mid '77,1,0,10.0,White/Black,Leather,7550.0
+Adidas,NMD_R1,7,1,6.0,Pink/White,Primeknit,9815.0
+Reebok,Legacy Lifter,17,0,9.5,Black/Gold,Leather,15100.0
+Converse,Run Star Hike,1,1,7.5,Pink,Canvas,8305.0
+Puma,Wild Rider,7,0,11.0,Black/White,Suede/Leather,6795.0
+Vans,Slip-On,1,1,8.0,Black/White Checkerboard,Canvas,3775.0
+New Balance,Fresh Foam 1080v10,10,0,12.0,Black/Green,Mesh,11325.0
+Asics,Gel-Quantum 360 6,10,1,9.0,Black/White,Mesh,11325.0
+Fila,Spaghetti,5,0,9.5,White/Navy,Leather/Synthetic,5662.5
+Nike,Air Max 90,10,0,8.5,White,Leather,9060.0
+Adidas,NMD_R1,7,1,7.0,Black/Pink,Primeknit,9815.0
+Reebok,Nano X,4,0,9.0,Grey,Mesh,9815.0
+Converse,All Star Pro BB,0,1,9.5,Purple,Canvas,8305.0
+Puma,Suede Classic,1,0,11.0,Black,Suede,4907.5
+Vans,Sk8-Hi,11,1,7.5,Yellow,Suede,4907.5
+New Balance,574,1,0,10.0,Grey,Suede/Mesh,6040.0
+Asics,Gel-Quantum 360 6,10,1,8.5,Black,Mesh,11325.0
+Fila,Original Fitness,5,0,10.5,White,Leather,4907.5
+Skechers,Go Run 600,10,1,6.0,Pink,Mesh,4530.0
+Nike,Air Force 1,1,0,9.5,Grey,Leather,6795.0
+Adidas,Yeezy Boost 350,7,1,6.5,Cream,Primeknit,16610.0
+Reebok,Legacy Lifter,17,0,10.5,Black,Leather,15100.0
+Converse,Pro Leather,1,1,8.5,White/Green,Leather,6417.5
+Puma,RS-X³ Puzzle,7,0,8.5,Red,Synthetic,8305.0
+Vans,Slip-On,11,1,8.0,Black/White,Canvas,3775.0
+New Balance,FuelCell Propel v3,10,0,9.0,Red,Mesh,7550.0
+Asics,Gel-Kayano 28,10,1,7.5,White/Pink,Mesh,12080.0
+Fila,Disruptor Low,5,0,9.5,White/Navy,Synthetic,4530.0
+Skechers,Elite Flex,16,1,7.5,Black,Mesh,5285.0
+Nike,Air Force 1 '07,0,0,9.5,White,Leather,7550.0
+Adidas,NMD_R1,10,1,7.0,Grey,Primeknit,10570.0
+Reebok,Aztrek Double Mix,1,1,8.0,Pink/White,Suede/Mesh,7550.0
+Converse,All Star Leather,1,0,8.5,Black,Leather,4907.5
+Puma,Calibrate Runner,10,0,10.0,Blue,Mesh,6795.0
+Vans,SK8-Hi,11,1,6.5,Black/White,Suede/Canvas,5285.0
+New Balance,Fresh Foam 880v11,10,0,11.5,Red,Mesh,9815.0
+Asics,Gel-Cumulus 23,10,1,9.5,Purple,Mesh,9060.0
+Fila,Mindblower,5,0,9.5,White/Blue,Leather/Synthetic,5662.5
+Skechers,Summits - Quick Lapse,16,1,8.0,Black/Pink,Mesh,4530.0
+Nike,Air Max 97,10,0,11.5,Black,Leather/Synthetic,12835.0
+Adidas,ZX 2K Boost,1,1,7.5,White/Pink,Mesh/Synthetic,11325.0
+Reebok,Club C Revenge,1,0,10.0,White/Green,Leather,6040.0
+Converse,Chuck 70 High,1,1,6.0,Red,Canvas,6417.5
+Puma,Cali Sport,7,0,8.5,Black/White,Leather,6040.0
+Vans,Slip-On,11,1,7.0,Black/White,Canvas,3775.0
+New Balance,Fresh Foam More v2,10,0,9.0,Grey,Mesh,12457.5
+Fila,Original Fitness,5,0,11.0,White,Leather,4530.0
+Reebok,Zig Kinetica,10,0,10.5,Black,Mesh,9060.0
+Puma,Clyde All-Pro,0,0,10.5,Black,Leather,9815.0
+Vans,Sk8-Hi,11,1,9.0,Black/White,Canvas/Suede,5285.0
+New Balance,Fresh Foam More v3,10,0,9.5,Blue,Mesh,12457.5
+Asics,Gel-Kayano Lite,10,1,7.5,Black,Mesh,9060.0
+Fila,Mindblower,5,0,9.0,Grey,Synthetic,5285.0
+Skechers,D'Lites,7,1,8.5,White,Leather/Synthetic,4907.5
+Nike,Air Max 95,10,0,11.0,Grey,Synthetic,12835.0
+Adidas,Superstar,1,1,7.0,White/Black,Leather,6040.0
+Reebok,DMX Series 2K,1,0,9.5,White/Blue,Synthetic,6795.0
+Converse,All Star Lift,1,1,6.5,Black,Canvas,4907.5
+Puma,Ralph Sampson,0,0,11.0,White,Leather,6040.0
+Vans,Era,11,1,8.5,Red,Canvas,4152.5
+New Balance,FuelCell Rebel v2,10,0,10.0,Black,Mesh,9815.0
+Asics,Gel-Quantum 90,10,1,8.0,Black/Pink,Mesh,6040.0
+Fila,Original Fitness,1,0,8.5,White/Red,Leather,4907.5
+Skechers,Elite Flex Wasick,15,1,7.5,Grey,Knit,4907.5
+Nike,React Infinity Run Flyknit,10,0,10.0,Blue,Flyknit,12080.0
+Nike,Air Force 1 '07,1,0,9.0,White/Black,Leather,6795.0
+Adidas,Yeezy Boost 350 V2,5,1,8.5,Cream White,Primeknit/Synthetic,16610.0
+Reebok,Nano X1 Adventure,15,0,10.5,Black,Mesh/Synthetic,9815.0
+Converse,Jack Purcell,1,1,7.0,White,Canvas,4907.5
+Puma,Calibrate Runner,10,0,11.0,Grey,Mesh/Synthetic,7550.0
+Vans,SK8-Hi,11,1,9.5,Purple,Canvas/Suede,5285.0
+New Balance,FuelCell Rebel v2,10,0,9.5,Black/White,Mesh/Synthetic,9815.0
+Asics,Gel-Quantum 360 6,10,1,6.0,Pink,Mesh/Synthetic,12835.0
+Fila,Mindblower,5,0,8.5,Red/White,Synthetic/Leather,5662.5
+Skechers,Max Cushioning Elite,10,1,7.0,Navy,Mesh/Synthetic,8305.0
+Nike,Air Max 90,10,0,8.0,Black/White,Leather/Mesh,9060.0
+Adidas,NMD_R1,5,1,7.0,Grey,Knit/Synthetic,10570.0
+Reebok,Nano X1 Grit,15,0,11.0,Grey/Black,Mesh/Synthetic,9815.0
+Converse,All Star,1,0,9.0,Navy,Canvas,4152.5
+Puma,Future Rider Play On,7,1,9.0,Yellow,Synthetic/Textile,6040.0
+Vans,Era,11,0,9.5,Black/White,Canvas,3775.0
+New Balance,Fresh Foam X Beacon v3,10,1,7.0,White/Grey,Mesh,9060.0
+Asics,Gel-Kayano 27,10,0,12.0,Black,Mesh/Synthetic,12080.0
+Fila,Trigate,5,1,8.0,Pink,Synthetic/Leather,4907.5
+Adidas,Yeezy Boost 350 V2,5,1,7.0,Cream,Primeknit,16610.0
+Reebok,Nano X1,3,0,10.0,Black/White,Mesh,9815.0
+Converse,All Star,1,1,8.5,Red,Canvas,4530.0
+Puma,Calibrate Rest,10,0,8.5,Grey,Mesh,7550.0
+Vans,Sk8-Hi,11,0,9.0,Black/White,Suede/Canvas,5285.0
+New Balance,327,1,1,7.0,Green/White,Suede/Nylon,6795.0
+Asics,Gel-Cumulus 23,10,0,9.0,Black,Mesh,9060.0
+Fila,Mindblower,5,1,7.5,Pink,Leather,5662.5
+Skechers,Max Cushioning,16,0,11.0,Grey,Mesh,6795.0
+Nike,React Infinity Run Flyknit 2,10,1,8.0,Blue,Flyknit,12080.0
+Adidas,Ultraboost 20,10,0,9.5,White,Primeknit,13590.0
+Reebok,Aztrek 96,1,1,9.0,Purple,Synthetic,6795.0
+Converse,Jack Purcell,1,0,8.5,White,Canvas,5285.0
+Puma,RS-X3,5,1,7.5,Pink,Leather/Synthetic,8305.0
+Vans,Slip-On,11,0,9.5,Checkerboard Black/White,Canvas,3775.0
+New Balance,FuelCell Rebel v2,10,1,8.5,Grey/Green,Mesh,9815.0
+Asics,Gel-Quantum 360 6,10,0,10.0,Black,Mesh,12080.0
+Fila,D-Formation,5,1,6.0,White/Black,Leather/Synthetic,5285.0
+Skechers,Go Walk 5,16,0,10.0,Black,Mesh,4907.5
+Nike,Air Max 2090,10,1,7.5,Green,Mesh,11325.0
+Nike,React Infinity Run,10,0,9.5,Blue/Black,Mesh,12080.0
+Adidas,NMD_R1,7,1,7.5,Grey,Primeknit,9815.0
+Reebok,Nano 9,15,0,10.0,Black,Flexweave,9815.0
+Converse,All Star Pro BB,0,1,8.5,White,Leather,7550.0
+Puma,Clyde Hardwood,0,0,8.0,Red/Black,Leather,8305.0
+Vans,Sk8-Hi,11,1,7.5,Black/White,Suede/Canvas,5285.0
+New Balance,327,1,0,9.5,Green,Suede/Mesh,6795.0
+Asics,Gel-Quantum 360 6,10,1,8.0,Pink,Mesh/Synthetic,12080.0
+Fila,Mindblower,5,0,10.0,White/Red,Leather,5662.5
+Skechers,D'Lites,16,1,7.5,Black,Leather/Synthetic,4530.0
+Adidas,Superstar,1,1,8.5,White/Black,Leather,6040.0
+Reebok,Classic Nylon,1,0,11.0,Black,Nylon/Suede,4530.0
+Converse,Chuck 70,1,1,7.5,Egret,Canvas,6417.5
+Puma,Ralph Sampson Mid,0,0,9.5,White,Leather,6795.0
+Vans,Era,11,0,8.5,Red,Canvas,4152.5
+New Balance,FuelCell Rebel v2,10,1,7.0,Purple,Mesh,9815.0
+Asics,GT-2000 10,10,0,9.5,Grey,Mesh,9060.0
+Fila,Trailblazer,6,1,8.0,Beige,Leather/Synthetic,6417.5
+Skechers,Summits,15,0,11.0,Black,Mesh,4530.0
+Adidas,Yeezy Boost 350 V2,7,0,10.0,Cream,Primeknit,16610.0
+Reebok,Zig Kinetica,10,1,9.0,Pink,Mesh,9060.0
+Converse,Chuck 70,1,0,9.0,Black,Canvas,6417.5
+Puma,Clyde All-Pro,0,0,9.5,Black,Leather,9815.0
+Vans,Sk8-Hi,11,1,7.0,Black/White,Suede/Canvas,5285.0
+New Balance,574,1,0,8.0,Grey,Suede/Mesh,6040.0
+Asics,Gel-Quantum 360,10,1,7.5,Grey,Mesh,12835.0
+Fila,Mindblower,5,0,11.0,White/Red,Leather,5662.5
+Skechers,Energy Wave Linxe,16,1,8.0,Grey,Mesh,4530.0
+Nike,React Infinity Run Flyknit 2,10,0,9.5,Black/White,Flyknit,12080.0
+Adidas,Ultraboost DNA,10,1,6.5,White,Primeknit,13590.0
+Reebok,Nano X1,15,0,10.0,Blue,Mesh,9815.0
+Puma,Calibrate Runner,10,0,10.5,Grey,Mesh,9060.0
+Vans,Slip-On,11,0,8.5,Black/White,Canvas,3775.0
+New Balance,FuelCell Rebel V2,10,1,7.5,Pink,Mesh,8305.0
+Asics,Gel-Kayano 27,10,0,11.5,Black,Mesh,12080.0
+Fila,Original Fitness,1,1,8.5,White,Leather,4530.0
+Skechers,Go Run Mojo 2.0,10,0,9.0,Black,Mesh,4152.5
+Nike,Zoom Fly 3,10,1,9.0,Blue,Mesh,12080.0
+Nike,Blazer Mid '77,0,0,11.0,White/Black,Leather,7550.0
+Adidas,Yeezy Boost 350 V2,7,1,6.5,Cloud White,Primeknit,16610.0
+Reebok,Nano X1,3,0,9.5,Black/White,Knit/Synthetic,9815.0
+Converse,Jack Purcell,1,1,8.0,Pink,Canvas,4907.5
+Puma,Calibrate,10,0,10.0,Grey/White,Mesh/Synthetic,9060.0
+New Balance,574,1,0,12.0,Navy/Red,Suede/Mesh,6417.5
+Asics,Gel-Quantum 90,10,1,7.5,Black/Gold,Mesh/Synthetic,6795.0
+Fila,Original Fitness,1,0,11.0,White/Navy/Red,Leather,5285.0
+Skechers,Elite Flex,16,1,9.0,Grey/Pink,Knit,5285.0
+Nike,Air Zoom Pegasus 38,10,0,10.0,Blue,Mesh/Synthetic,9060.0
+Adidas,NMD_R1,7,1,8.5,Black/Pink,Knit,10570.0
+Reebok,Floatride Energy 3,10,0,8.5,White/Black,Knit/Synthetic,7550.0
+Converse,All Star Chuck 70,11,1,9.0,Black,Canvas,6417.5
+Puma,Clyde All-Pro,0,0,9.0,Black/Yellow,Leather/Synthetic,9815.0
+Vans,Era,11,1,8.0,Multi-color,Canvas,4152.5
+New Balance,Fresh Foam 880v11,10,0,9.5,Grey,Mesh,9815.0
+Asics,Gel-Kayano 28,10,1,9.0,Black,Mesh,12080.0
+Fila,Trigate,10,0,10.0,Black/White,Mesh/Synthetic,4907.5
+Nike,React Infinity Run,10,0,9.5,Blue/Green,Mesh,12080.0
+Adidas,NMD_R1,7,1,8.0,White/Black,Primeknit,10570.0
+Reebok,Nano 9,3,0,10.0,Black,Synthetic/Textile,9815.0
+Puma,Calibrate Runner,10,0,11.0,Black/White,Mesh,9060.0
+Vans,Era,11,1,7.5,Pink,Canvas,3775.0
+New Balance,327,1,0,8.0,Grey/Green,Suede/Mesh,7550.0
+Asics,Gel-Quantum 180 5,10,1,9.0,Pink/Black,Mesh/Synthetic,9060.0
+Fila,D-Formation,5,0,9.5,White/Red,Leather/Synthetic,5285.0
+Skechers,Max Cushioning Elite,10,1,6.5,Grey/Pink,Mesh,6795.0
+Nike,ZoomX Vaporfly Next%,10,0,10.0,Black/White,Mesh,18875.0
+Adidas,Yeezy Boost 350 V2,5,1,7.5,Cream White,Primeknit,16610.0
+Reebok,Aztrek 96,1,0,11.5,Black/White,Suede/Textile,6795.0
+Converse,Chuck 70,1,1,6.5,Sunflower,Canvas,6417.5
+Puma,Future Rider,7,0,10.0,Blue/Red,Synthetic/Mesh,6040.0
+Vans,Sk8-Hi,11,1,8.0,Yellow,Canvas/Suede,4907.5
+New Balance,Fresh Foam More,10,0,9.5,Black/White,Mesh,12457.5
+Asics,Gel-Kayano 28,10,1,7.0,White/Pink,Mesh,12080.0
+Fila,Venom,5,0,8.5,White/Red/Navy,Leather/Synthetic,4907.5
+Adidas,NMD_R1,7,1,8.0,Pink,Primeknit,9815.0
+Reebok,Nano X1 Adventure,15,0,10.5,Grey,Flexweave,9815.0
+Converse,Jack Purcell Low Top,1,1,7.0,White,Canvas,4907.5
+Puma,Clyde All-Pro,0,0,12.0,Black/White,Leather/Synthetic,9815.0
+Vans,SK8-Hi,11,1,7.5,Pink,Suede/Canvas,4907.5
+New Balance,327,7,0,9.5,Green,Suede/Mesh,6795.0
+Asics,Gel-Lyte III,7,1,9.0,Black/Grey,Leather/Suede,8305.0
+Fila,Original Fitness,5,0,9.5,White,Leather,4530.0
+Skechers,Max Cushioning Elite,10,1,7.0,Black,Mesh,7550.0
+Nike,Air Zoom Pegasus 38,10,0,10.0,Blue,Mesh,9060.0
+Adidas,Harden Vol. 5,0,1,8.5,Grey,Textile,9815.0
+Reebok,DMX Trail Shadow,10,0,9.0,Orange,Synthetic/Mesh,9060.0
+Converse,Chuck 70 High Top,1,0,11.5,Black,Canvas,6417.5
+Puma,RS-X Hard Drive,7,1,6.5,Silver/White,Mesh/Synthetic,9060.0
+Vans,Era,11,0,8.5,Red,Canvas,3775.0
+New Balance,Fresh Foam More v3,10,1,8.0,Black,Mesh/Synthetic,12457.5
+Asics,Gel-Quantum 360 6,10,0,10.5,Black/Red,Mesh/Synthetic,12835.0
+Fila,Mindblower,5,1,7.0,Pink,Synthetic,5662.5
+Skechers,D'Lites Fresh Start,16,0,12.0,White,Synthetic/Leather,4907.5
+Nike,Blazer Mid '77,11,0,9.0,Black/White,Leather,7550.0
+Adidas,Ultraboost DNA,10,1,8.5,Grey,Primeknit,13590.0
+Reebok,Classic Nylon,1,0,12.0,Navy,Nylon,4907.5
+Converse,Chuck 70,1,1,6.5,Pink,Canvas,6417.5
+Puma,Calibrate Runner,10,0,10.0,Black,Mesh,6795.0
+Vans,Sk8-Hi,11,1,7.5,Red,Canvas/Suede,5285.0
+New Balance,Fresh Foam More,10,0,9.5,Black,Mesh,12080.0
+Asics,Gel-Quantum 180,10,1,7.5,Blue,Mesh,9060.0
+Fila,D-Formation,5,0,11.0,White,Leather,5285.0
+Skechers,Solar Fuse,16,1,8.0,Grey,Mesh,5285.0
+Nike,Air Max 2090,10,0,10.5,Green,Mesh,11325.0
+Adidas,Adilette Shower,12,1,6.0,Pink,Synthetic,1887.5
+Reebok,Nano X1,15,0,11.0,Red,Mesh,9815.0
+Converse,Jack Purcell,1,1,7.5,White,Canvas,5662.5
+Puma,Suede Classic+,1,0,8.0,Black,Suede,4907.5
+Vans,Slip-On,11,1,9.0,Checkerboard Black/White,Canvas,3775.0
+New Balance,FuelCell Rebel v2,10,0,8.5,Green,Mesh,9815.0
+Asics,Gel-Sonoma 6,13,1,6.5,Grey,Mesh,5662.5
+Fila,Ray Tracer Evo,5,0,12.0,Black,Synthetic,4907.5
+Skechers,Max Cushioning,10,1,8.0,Navy,Mesh,6417.5
+Nike,React Infinity Run Flyknit,10,0,11.0,Blue,Flyknit,12080.0
+Nike,Air Force 1 Low,1,0,12.0,White,Leather,6795.0
+Adidas,Yeezy Boost 350,5,1,8.0,Cream White,Primeknit,16610.0
+Reebok,Nano 9,15,0,11.0,Black/Gum,Flexweave/Cushioning,9815.0
+Converse,Jack Purcell,1,1,7.5,Egret/Black,Canvas,4907.5
+Puma,Calibrate Runner,10,0,10.5,Grey,Mesh,7550.0
+Vans,Sk8-Hi,11,1,9.5,Black/White,Canvas/Suede,5285.0
+New Balance,997H,1,0,9.5,Black/Grey,Suede/Mesh,6794.24
+Asics,Gel-Cumulus 22,10,1,8.0,Pink,Mesh,9060.0
+Fila,Mindblower,5,0,8.5,White/Navy/Red,Synthetic/Leather,5662.5
+Skechers,Go Walk 5,16,1,7.0,Black,Mesh,4530.0
+Nike,Blazer Low,1,0,10.0,Black,Leather,6417.5
+Adidas,Ultraboost 6.0,10,1,7.0,Grey,Primeknit,13590.0
+Reebok,Aztrek 96,1,0,12.0,White/Black,Synthetic,6795.0
+Converse,Pro Leather,0,1,8.5,White,Leather,5662.5
+Puma,Suede Classic,1,0,9.5,Black/White,Suede,4907.5
+Vans,Era,11,1,8.0,True White,Canvas,3775.0
+New Balance,1500v6,8,0,8.0,Orange,Mesh,8305.0
+Asics,Gel-Kayano 27,10,1,7.0,Grey,Mesh,12080.0
+Fila,Original Fitness,1,0,10.5,Black,Leather,4530.0
+Skechers,Go Run Mojo,10,1,9.5,Grey/Pink,Mesh,4530.0
+Nike,Air Force 1,1,0,10.5,White,Leather,6795.0
+Adidas,NMD_R1,7,1,8.5,Grey/Pink,Primeknit,10570.0
+Reebok,Nano X1 Adventure,15,0,11.0,Black,Knit,9815.0
+Converse,Chuck 70,1,1,7.0,Pink,Canvas,6417.5
+Puma,Cali Sport,5,1,6.5,White/Black,Leather,6040.0
+Vans,Sk8-Hi,11,0,9.5,Blue/White,Suede/Canvas,5285.0
+New Balance,Fresh Foam More v3,10,1,7.5,Pink/White,Mesh,12457.5
+Asics,Gel-Cumulus 23,10,0,9.5,Black,Mesh,9060.0
+Fila,Trail Blazer,6,1,9.5,Green,Suede/Leather,5285.0
+Skechers,Go Run Mojo Pep,10,0,8.5,Black,Mesh,5285.0
+Nike,Air Zoom Pegasus 38,10,1,6.5,Blue/Pink,Mesh,9060.0
+Adidas,Superstar,1,0,11.0,White/Black,Leather,6040.0
+Reebok,Classic Nylon,1,1,8.5,Purple,Nylon,4907.5
+Converse,Jack Purcell,1,0,9.0,White,Canvas,5285.0
+Puma,Suede Classic+,1,1,7.0,Black,Suede,4907.5
+Vans,Era,11,0,10.5,Black/White,Canvas,4152.5
+New Balance,574,1,1,9.0,Grey/White,Suede/Mesh,6040.0
+Asics,Gel-Contend 7,10,0,10.0,Blue,Mesh,5285.0
+Fila,Trigate,10,1,7.0,Black/Pink,Synthetic/Mesh,5285.0
+Skechers,Flex Appeal 4.0,15,0,8.5,Grey/Orange,Knit,5285.0
+Adidas,Yeezy Boost 350 V2,7,0,11.0,Cream White,Primeknit,16610.0
+Reebok,Aztrek,9,1,7.5,Black/Gold/Red,Suede/Mesh,6795.0
+Converse,Jack Purcell,1,0,8.0,Navy,Canvas,4907.5
+Puma,Calibrate Runner,10,1,8.0,Grey/White,Mesh,6040.0
+Vans,Era,11,0,10.0,Black/White,Canvas,4152.5
+New Balance,327,9,0,12.0,Grey/Orange,Suede/Mesh,7550.0
+Asics,Gel-Kayano 27,10,1,9.5,Blue/Pink,Mesh,12080.0
+Fila,D-Formation,5,0,9.0,Black,Leather/Synthetic,4907.5
+Skechers,Go Run Ride 8,10,1,7.5,Black/Pink,Mesh,6795.0
+Nike,React Infinity Run,10,0,11.0,Black,Mesh/Synthetic,12080.0
+Adidas,NMD_R1,7,1,8.0,Black/Grey,Primeknit,9815.0
+Reebok,Club MEMT,1,0,9.5,White/Grey,Leather,4907.5
+Converse,Chuck 70,11,1,6.5,White,Canvas,6417.5
+Puma,Clyde,9,0,8.0,Red,Suede,6040.0
+Vans,Sk8-Hi,11,1,7.5,Pink/White,Canvas,4907.5
+New Balance,1080v10,10,0,10.5,Grey,Mesh,11325.0
+Asics,Gel-Quantum 180,10,1,7.5,Black/White,Mesh,10570.0
+Fila,Original Fitness,1,0,10.0,White/Navy/Red,Leather,4530.0
+Skechers,Summits,16,1,9.0,Black/Grey,Mesh,4530.0
+Adidas,Yeezy Boost 350 V2,7,0,9.0,Natural,Primeknit,16610.0
+Reebok,Legacy Lifter,17,0,10.5,Black,Synthetic,11325.0
+Puma,Calibrate Runner,10,0,10.0,Grey,Mesh,7550.0
+Vans,Slip-On,11,1,8.5,Checkered,Canvas,3775.0
+New Balance,327,1,0,9.0,Navy/Red,Suede/Nylon,7550.0
+Asics,Gel-Quantum 360 6,10,1,8.5,Pink,Mesh,11325.0
+Fila,Mindblower,5,0,11.0,White/Navy,Synthetic,5662.5
+Skechers,Go Run Mojo,10,1,7.5,Black/Pink,Mesh,4907.5
+Nike,Zoom Fly 3,10,0,10.0,Black,Mesh,12080.0
+Adidas,Ultra Boost DNA,10,1,8.5,Grey,Primeknit,13590.0
+Reebok,Nano 9,4,0,9.5,Grey/Black,Mesh,9815.0
+Converse,Pro Leather,11,1,6.0,White,Leather,5662.5
+Puma,Clyde All-Pro,0,0,11.5,White/Black,Leather,9815.0
+Vans,Sk8-Hi,11,0,8.5,Black/White,Suede/Canvas,5285.0
+New Balance,574,1,1,7.5,Burgundy,Suede/Leather,6040.0
+Asics,Gel-Cumulus 23,10,0,11.5,Black/Red,Mesh,9060.0
+Fila,Original Fitness,1,1,8.5,White/Navy,Leather,4907.5
+Skechers,Go Walk 5,16,0,9.0,Charcoal,Mesh,4907.5
+Nike,Air Force 1,1,0,8.5,White,Leather,6795.0
+Adidas,Yeezy Boost 350,7,0,10.0,Grey,Primeknit,16610.0
+Reebok,Nano 9,4,1,7.0,Black,Mesh,9815.0
+Converse,All Star,1,0,9.0,Red,Canvas,4152.5
+Puma,Clyde Court,0,0,11.0,Black,Mesh,9060.0
+Vans,Sk8-Hi,11,1,7.5,Red,Suede,4907.5
+New Balance,327,7,0,9.0,Green,Suede/Mesh,6795.0
+Asics,Gel-Kinsei OG,10,1,8.5,White,Mesh,13590.0
+Fila,Mindblower,5,0,10.0,Blue,Synthetic,5662.5
+Skechers,Go Walk 5,16,1,8.0,Grey,Mesh,4530.0
+Nike,Zoom Pegasus 38,10,0,10.0,Black,Mesh,9060.0
+Adidas,NMD_R1,7,1,7.5,Black/Pink,Primeknit,10570.0
+Reebok,Aztrek 96,1,0,11.0,Grey,Synthetic,6795.0
+Converse,Pro Leather,0,1,8.5,White,Leather,6417.5
+Puma,RS-X,7,0,9.0,Black,Leather,8305.0
+Vans,Era,11,1,6.5,Black,Canvas,3775.0
+New Balance,FuelCell Rebel v2,10,1,9.5,Blue,Mesh,9815.0
+Asics,Gel-Quantum 360 6,10,0,9.0,Black/Grey,Mesh,13590.0
+Fila,V94M Low,5,1,7.0,White/Pink,Leather,5662.5
+Skechers,Stamina,15,0,9.0,Black,Leather,4907.5
+Nike,SB Dunk Low,11,0,9.5,Orange,Leather,7550.0
+Nike,Air Force 1,1,0,11.0,White/Black,Leather,6795.0
+Adidas,Yeezy Boost 350 V2,5,1,8.5,Cinder,Primeknit,16610.0
+Reebok,Zig Kinetica II,10,0,9.5,Black/White,Mesh/Synthetic,9060.0
+Converse,Jack Purcell,1,1,7.5,Black/White,Canvas,4907.5
+Vans,Sk8-Hi,11,1,6.5,Blue/White,Suede/Canvas,5285.0
+New Balance,574 Classic,1,0,9.5,Black/Yellow,Suede/Mesh,6040.0
+Asics,Gel-Kayano Lite,10,1,8.5,Purple,Mesh/Synthetic,9060.0
+Fila,Trailblazer,5,0,10.5,Black/Gold,Leather/Suede,5662.5
+Skechers,Uno Bold,7,1,7.5,Pink/White,Synthetic,5285.0
+Nike,Air Max 2090,10,0,11.5,Black/White,Mesh/Synthetic,11325.0
+Adidas,Ultra Boost DNA,10,1,8.0,Grey/White,Primeknit,13590.0
+Reebok,Classic Leather,1,0,12.0,Navy/White,Leather,5662.5
+Converse,Chuck 70,1,1,9.0,Red,Canvas,6417.5
+Puma,Suede Classic,1,0,9.5,Red/White,Suede,4907.5
+Vans,Era,11,1,7.0,Black/White,Canvas,4152.5
+New Balance,FuelCell Rebel v2,10,0,10.5,Blue/Yellow,Mesh,7550.0
+Asics,Gel-Quantum 360 6,10,1,7.5,White/Grey,Mesh/Synthetic,13590.0
+Fila,Strada,5,0,11.0,White/Red/Blue,Synthetic,5285.0
+Nike,Air Force 1,1,0,12.0,White,Leather,6795.0
+Reebok,Nano X1,15,0,11.0,Black,Flexweave,9815.0
+Vans,Sk8-Hi,11,1,8.0,Black/White,Suede/Canvas,4907.5
+New Balance,327,7,0,9.5,Grey,Suede/Mesh,6795.0
+Asics,Gel-Quantum 360 6,10,1,8.5,Black/Pink,Mesh/Synthetic,12080.0
+Fila,Mindblower,5,0,10.0,White/Black,Leather/Synthetic,5662.5
+Skechers,Max Cushioning Elite,10,1,7.0,Grey/Pink,Mesh,6795.0
+Nike,ZoomX Invincible,10,0,10.5,Blue,Mesh,13590.0
+Adidas,Harden Vol. 5,0,1,8.5,Purple,Synthetic,9815.0
+Reebok,Classic Nylon,1,0,12.0,Navy,Nylon,4530.0
+Converse,Chuck 70,1,1,7.0,Ivory,Canvas,6417.5
+Puma,Suede Classic+,1,0,8.5,Black/White,Suede,4907.5
+New Balance,FuelCell Prism,10,1,9.5,Black,Mesh,6795.0
+Asics,Gel-Excite 8,10,0,9.0,Grey/Black,Mesh,5662.5
+Fila,Spaghetti,5,1,7.0,White,Leather/Synthetic,5285.0
+Skechers,D'Lites Fresh Start,16,0,10.5,Black,Leather,4530.0
+Adidas,NMD_R1,7,1,8.0,Black,Primeknit,10570.0
+Reebok,Nano 9,15,0,10.5,Red,Mesh,9815.0
+Puma,Calibrate Runner,10,0,8.5,Black,Mesh,6795.0
+Vans,Sk8-Hi,11,1,9.0,Purple,Suede/Canvas,4907.5
+New Balance,Fresh Foam More v3,10,1,9.0,Grey,Mesh,12080.0
+Asics,Gel-Kahana 8,10,0,9.5,Blue,Mesh,6417.5
+Fila,Tracer,5,1,7.5,White,Synthetic,4907.5
+Skechers,Summits,16,0,12.0,Black,Mesh,4907.5
+Nike,Epic React Flyknit,10,1,7.5,Grey,Flyknit,11325.0
+Adidas,Ultraboost 4.0,10,0,11.0,Black,Primeknit,13590.0
+Reebok,Legacy Lifter,17,0,9.0,White/Black,Synthetic,15100.0
+Converse,All Star Pro BB,0,1,7.0,Green,Leather,7550.0
+Puma,Cell Venom,7,0,10.0,Grey,Leather,6795.0
+Vans,Slip-On,1,1,6.5,Checkerboard,Canvas,3775.0
+New Balance,574,1,0,12.0,Burgundy,Suede/Mesh,6040.0
+Nike,Air Max 95,10,0,9.0,Grey,Leather/Synthetic,12835.0
+Adidas,NMD_R1,7,1,7.5,Pink,Primeknit,10570.0
+Reebok,Nano X1,15,0,11.0,Black,Mesh,9815.0
+Converse,Jack Purcell,1,0,8.0,White,Canvas,4907.5
+Puma,Calibrate Rest,10,1,8.5,Black,Mesh,7550.0
+Vans,SK8-Hi,11,0,9.5,Red,Suede/Canvas,5285.0
+New Balance,327,7,1,6.5,Grey,Suede/Mesh,7550.0
+Asics,Gel-Quantum 360 6,10,0,10.5,Black,Mesh,13590.0
+Fila,Original Fitness,1,1,9.0,White,Leather,5285.0
+Skechers,Max Cushioning,10,0,10.0,Blue,Mesh,6795.0
+Nike,React Infinity Run Flyknit,10,1,8.0,Blue,Flyknit,12080.0
+Adidas,Yeezy Boost 350 V2,7,0,9.0,Cream White,Primeknit,16610.0
+Puma,Clyde All-Pro,0,1,7.5,White,Leather,9815.0
+New Balance,574,7,1,8.0,Grey,Suede/Textile,6040.0
+Asics,Gel-Excite 8,10,0,9.5,Blue,Mesh,5285.0
+Fila,F-13,5,0,11.0,Black,Leather,4907.5
+Nike,Air Force 1,1,0,9.0,White,Leather,6795.0
+Adidas,NMD_R1,1,1,7.0,Black,Primeknit,9815.0
+Reebok,Zig Kinetica II,10,0,10.0,White,Mesh,9060.0
+Converse,Jack Purcell,1,1,8.5,Navy,Canvas,5662.5
+Puma,Calibrate Runner,10,0,9.5,Black,Mesh,6795.0
+New Balance,FuelCell Rebel v2,10,1,8.5,Black/Pink,Mesh,9815.0
+Asics,Gel-Quantum 90,10,0,11.0,Grey,Mesh,6040.0
+Fila,Mindblower,5,1,7.0,White,Synthetic,5662.5
+Skechers,GOwalk 5,16,0,9.0,Black,Mesh,4907.5
+Nike,Zoom Pegasus 38,10,1,8.5,Blue,Mesh,9060.0
+Adidas,Yeezy Boost 350 V2,1,0,11.0,Cream White,Primeknit,16610.0
+Converse,Chuck 70,1,0,9.0,Red,Canvas,6417.5
+Puma,Suede Classic,5,1,6.0,Black,Suede,4907.5
+Vans,Era,11,0,8.0,Grey,Canvas,3775.0
+New Balance,Fresh Foam Beacon v3,10,1,9.0,Grey,Mesh,9060.0
+Asics,Gel-Kayano 27,10,0,10.0,Black,Mesh,12080.0
+Fila,Disruptor III,5,1,8.5,White,Synthetic,5662.5
+Skechers,Max Cushioning,10,0,9.5,Blue,Mesh,6795.0
+Nike,Air Max 90,1,1,7.5,Green,Leather,9060.0
+Nike,Air Max 97,10,0,11.0,Silver,Synthetic/Leather,12835.0
+Reebok,Zig Kinetica II,10,0,9.0,Grey,Mesh,9060.0
+Converse,Chuck 70,1,0,12.0,Beige,Canvas,6417.5
+Puma,Calibrate Runner,10,1,7.5,Black/White,Mesh,6795.0
+New Balance,574,1,1,7.5,Grey,Suede,6040.0
+Asics,Gel-Kayano 27,10,0,12.0,Black,Mesh,12080.0
+Fila,Mindblower,5,1,9.5,Grey/Pink,Synthetic,5662.5
+Skechers,Summits - New World,16,0,10.0,Black,Mesh,4454.5
+Nike,Air Force 1,1,1,8.0,White,Leather,6795.0
+Adidas,Adizero Adios 5,10,0,10.5,Blue,Mesh,10570.0
+Reebok,Nano 9,15,1,7.0,Black/White,Synthetic,9815.0
+Converse,Jack Purcell,1,0,8.5,Navy,Canvas,4907.5
+Vans,Slip-On,1,0,10.0,Black/White,Canvas,3775.0
+New Balance,FuelCell Propel V3,10,1,8.5,Pink/White,Mesh,7550.0
+Asics,Gel-Quantum 180,10,0,11.5,Black,Mesh,9060.0
+Fila,Ray Tracer Evo,5,1,8.0,White,Synthetic,4907.5
+Skechers,GOrun Razor Excess,10,0,9.0,Black/Yellow,Mesh,9437.5
+Nike,Zoom Pegasus 38,10,1,7.5,Pink,Mesh,9060.0
+Adidas,NMD_R1,10,1,7.5,Grey/Pink,Primeknit,10570.0
+Reebok,Nano 9,4,0,11.5,Black,Mesh,9815.0
+Puma,Calibrate Runner,10,0,9.5,Black/Yellow,Mesh,9060.0
+Vans,SK8-Hi,11,0,9.0,Black/White,Suede/Canvas,4907.5
+New Balance,327,1,1,7.5,Purple,Suede/Leather,7550.0
+Asics,Gel-Cumulus 23,10,0,10.0,Blue/Black,Mesh,9060.0
+Fila,F-13,1,1,9.0,White,Leather,6040.0
+Skechers,Go Walk 6,16,0,10.5,Black/Grey,Mesh,4530.0
+Adidas,Superstar,1,0,10.0,Black/White,Leather,6417.5
+Reebok,Classic Nylon,1,1,7.0,Pink,Nylon,4530.0
+Converse,Chuck 70,1,0,11.0,Grey,Canvas,6417.5
+Vans,Slip-On,1,0,8.5,Black/White,Canvas,3775.0
+New Balance,574,1,1,8.5,Navy,Suede/Leather,6040.0
+Asics,GT-2000 9,10,0,9.5,Black,Mesh,9060.0
+Fila,Grant Hill 2,0,1,8.0,White/Navy,Leather,7172.5
+Skechers,Elite Flex,16,0,9.5,Grey,Knit,5285.0
+Adidas,NMD_R1,7,1,7.0,Grey,Primeknit,10570.0
+Reebok,Nano X1,15,0,11.5,Black,Mesh,9815.0
+Puma,Suede Classic,1,0,10.5,Black/White,Suede,4907.5
+Vans,Sk8-Hi,11,0,8.0,Black/White,Canvas,5285.0
+New Balance,327,7,1,8.0,White/Grey,Suede/Mesh,6795.0
+Asics,Gel-Quantum 90,10,0,10.0,Grey,Mesh,6040.0
+Fila,Mindblower,5,1,7.0,Pink,Leather/Synthetic,5662.5
+Skechers,Max Cushioning,16,0,9.5,Black,Mesh,6040.0
+Nike,React Infinity Run Flyknit 2,10,1,6.5,Pink,Flyknit,12080.0
+Adidas,Ultraboost DNA,10,0,9.5,White,Primeknit,13590.0
+Reebok,Zig Kinetica II,10,1,8.0,Blue,Mesh,9060.0
+Puma,Calibrate Runner,10,1,7.0,Grey,Mesh,6795.0
+Vans,Era,11,0,10.0,Black,Canvas,3775.0
+New Balance,Fresh Foam Hierro v6,14,0,11.5,Green,Synthetic/Mesh,10192.5
+Asics,Gel-Kayano 27,10,1,8.5,Blue,Mesh,12080.0
+Fila,Ray Tracer Evo,5,0,11.0,Black/White,Synthetic,5662.5
+Skechers,Go Run Mojo,10,1,7.5,Black,Mesh,4530.0
+Adidas,NMD_R1,10,1,7.0,Pink,Primeknit,9815.0
+Reebok,Nano 9,15,0,10.5,Black,Mesh,9815.0
+Puma,Clyde All-Pro,0,0,9.0,Black,Leather,9815.0
+New Balance,327,1,0,9.0,Navy,Suede/Mesh,7550.0
+Asics,Gel-Kinsei OG,10,1,7.0,White,Mesh,13590.0
+Fila,Venom,5,0,11.0,Grey,Synthetic,5662.5
+Skechers,GOrun 7+,10,1,8.0,Black/Pink,Mesh,7172.5
+Nike,Blazer Mid '77,1,0,12.0,White,Leather,7550.0
+Adidas,Ultraboost DNA,10,1,6.0,Blue,Primeknit,13590.0
+Reebok,Classic Nylon,1,0,9.5,Black,Nylon,4907.5
+Converse,Chuck 70,1,1,9.0,Cream,Canvas,6417.5
+Puma,Calibrate Runner,10,0,10.0,Black/Yellow,Mesh,9060.0
+Vans,Era,11,1,6.5,Red,Canvas,3775.0
+New Balance,FuelCell Rebel V2,10,0,11.0,Black/Yellow,Mesh,8305.0
+Asics,Gel-Venture 8,14,1,8.0,Grey,Mesh,5285.0
+Fila,Original Fitness,1,0,10.0,White,Leather,5285.0
+Skechers,Max Cushioning Premier,16,1,7.0,Grey,Mesh,6040.0
+Nike,React Infinity Run Flyknit,10,0,10.5,Blue,Flyknit,12080.0
+Nike,React Infinity Run Flyknit,10,1,7.0,Black,Flyknit,12080.0
+Adidas,Superstar,1,0,10.5,White/Gold,Leather/Synthetic,6417.5
+Reebok,Nano X1,15,1,8.5,Pink,Flexweave/Synthetic,9815.0
+Converse,Chuck 70,1,0,11.5,Yellow,Canvas,6417.5
+Puma,Calibrate Runner,10,1,9.0,Grey,Mesh,6040.0
+Vans,Sk8-Hi,11,0,9.0,Black/White,Canvas/Suede,4907.5
+New Balance,327,7,1,7.0,Blue,Suede/Mesh,6795.0
+Asics,Gel-Quantum 90,10,0,9.0,Black/White,Mesh/Synthetic,6040.0
+Fila,Mindblower,5,1,8.0,Pink,Leather/Synthetic,5285.0
+Skechers,Go Run Mojo,10,0,8.0,Black,Mesh,4530.0
+Nike,Air Force 1,1,1,8.5,White,Leather,6795.0
+Adidas,NMD_R1,1,0,9.5,Black/White,Mesh,9815.0
+Reebok,Floatride Energy 3,10,1,6.5,Black,Mesh,7550.0
+Converse,All Star Pro BB,0,0,12.0,Red,Leather/Synthetic,9060.0
+Puma,RS-2K,7,1,7.5,White,Leather/Synthetic,8305.0
+Vans,Era,11,0,8.0,Navy,Canvas,3775.0
+New Balance,FuelCell Rebel v2,10,1,8.5,Pink,Mesh/Synthetic,9815.0
+Asics,Gel-Kayano 27,10,0,10.0,Black,Mesh/Synthetic,12080.0
+Fila,Trigate,5,1,9.0,Black,Leather/Synthetic,4907.5
+Skechers,Go Walk 6,16,0,9.5,Black,Mesh,4530.0
+Nike,Air Force 1 '07,1,0,11.0,White,Leather,6795.0
+Adidas,NMD_R1,7,1,8.0,Pink/White,Primeknit,9815.0
+Reebok,Nano X,4,0,10.5,Black,Synthetic,9815.0
+Converse,Chuck 70 High Top,1,0,9.5,Black/White,Canvas,6417.5
+Puma,Calibrate Runner,10,1,9.0,Blue/White,Mesh,6795.0
+New Balance,327,7,1,7.5,Green,Suede/Nylon,6795.0
+Asics,Gel-Kayano 27,10,0,9.5,Grey,Mesh,12080.0
+Fila,Mindblower,5,1,7.5,White/Blue,Leather/Synthetic,5662.5
+Skechers,Elite Flex Wasick,15,0,8.0,Navy,Mesh,4907.5
+Nike,Air Zoom Pegasus 38,10,1,6.5,Grey/Pink,Mesh,9060.0
+Adidas,Ultraboost DNA,10,0,11.5,Black/White,Primeknit,13590.0
+Reebok,Club C Revenge,1,1,8.5,Pink/White,Leather,6040.0
+Converse,Jack Purcell,1,0,9.0,Navy,Canvas,4907.5
+Puma,Clyde All-Pro,0,1,7.0,Black/White,Leather,9815.0
+New Balance,FuelCell Propel V3,10,1,8.5,Black,Mesh,6795.0
+Asics,Gel-Nimbus Lite 2,10,0,10.0,Black,Mesh,11325.0
+Fila,V94M,5,1,8.5,White/Blue,Leather/Synthetic,5662.5
+Adidas,NMD_R1,7,1,7.5,Pink,Primeknit,9815.0
+Reebok,Nano X1,4,0,9.5,Grey,Knit,9815.0
+Converse,Chuck 70,1,1,9.5,Black,Canvas,6417.5
+Puma,Calibrate,10,0,10.0,Grey,Mesh,9060.0
+Vans,SK8-Hi,11,0,8.0,Red/White,Suede/Canvas,5285.0
+New Balance,327,7,1,6.5,Purple,Suede/Mesh,7550.0
+Fila,Trailblazer,5,1,8.0,Brown,Leather,5662.5
+Skechers,Max Cushioning,10,1,7.5,Navy,Mesh,6795.0
+Nike,Air Zoom Pegasus 38,10,0,9.5,Blue,Mesh,9060.0
+Adidas,Superstar,1,1,8.5,White/Black,Leather,6417.5
+Converse,Jack Purcell,1,0,9.5,White,Canvas,4907.5
+Puma,RS-2K,7,1,7.5,Black,Mesh/Suede,8305.0
+Vans,Slip-On,11,0,9.0,Black/White,Canvas,3775.0
+New Balance,FuelCell Rebel v2,10,1,9.0,Green/Black,Mesh,9815.0
+Asics,Gel-Kayano Lite,10,0,9.0,Grey,Mesh,12080.0
+Fila,Mindblower,5,1,7.5,White,Leather,5662.5
+Skechers,D'Lites,16,0,11.0,White,Leather,4907.5
+Nike,Air Max 97,10,1,8.0,Silver,Leather/Synthetic,12835.0
+Nike,Air Force 1,7,0,11.0,White,Leather,6795.0
+Adidas,Yeezy Boost 350,7,1,8.5,Clay Brown,Primeknit,16610.0
+Reebok,Nano X,15,0,9.5,Black/Red,Synthetic/Mesh,9815.0
+Converse,Chuck 70,1,1,7.0,Natural Ivory,Canvas,6417.5
+Puma,Cali Sport,7,0,10.0,Black/White,Leather/Synthetic,6040.0
+Vans,Sk8-Hi,11,1,9.0,Red/White,Suede/Canvas,5285.0
+New Balance,FuelCell Rebel v2,10,0,8.5,Blue/Orange,Mesh,9815.0
+Asics,Gel-Cumulus 23,10,1,7.5,White/Black,Mesh,9060.0
+Fila,D-Formation,5,0,11.0,White/Navy,Leather/Synthetic,4907.5
+Skechers,Max Cushioning Premier,10,1,6.5,Black/White,Mesh,6795.0
+Nike,Air Zoom Pegasus 38,10,0,12.0,Black,Mesh,9060.0
+Adidas,Superstar,1,1,7.5,Cloud White,Leather,6040.0
+Reebok,Classic Nylon,1,0,10.5,Collegiate Navy,Nylon/Suede,4907.5
+Converse,Jack Purcell,1,1,8.0,Black/White,Canvas,4907.5
+Puma,Suede Classic,7,0,8.5,Black/White,Suede,4907.5
+Vans,Era,11,1,6.0,Black/White,Canvas,3775.0
+New Balance,Fresh Foam Hierro v6,13,0,10.0,Black/Red,Mesh/Synthetic,10192.5
+Asics,Gel-Excite 8,10,1,9.0,Black,Mesh,5662.5
+Fila,Mindblower,5,0,12.0,White/Navy/Red,Synthetic/Leather,4907.5
+Reebok,Nano X,4,0,10.5,Black,Mesh,9815.0
+Puma,Calibrate Runner,10,1,7.0,Grey,Mesh,6040.0
+Vans,Sk8-Hi,11,0,10.5,Black/White,Canvas/Suede,5285.0
+New Balance,FuelCell Rebel v2,10,1,9.0,White/Green,Mesh,9815.0
+Asics,Gel-Quantum 360 6,10,0,9.5,Blue,Mesh,11325.0
+Fila,Mindblower,5,1,8.5,Pink,Leather,6040.0
+Skechers,Go Walk 5,16,0,11.0,Black,Mesh,4907.5
+Nike,React Infinity Run Flyknit 2,10,1,8.5,Pink,Flyknit,12080.0
+Adidas,Ultraboost DNA,10,0,8.5,White,Primeknit,13590.0
+Reebok,Aztrek 96,1,1,7.5,Yellow,Leather/Synthetic,6795.0
+Converse,Chuck 70,1,0,7.0,Red,Canvas,6417.5
+Puma,Mirage Sport,7,1,6.0,Pink,Leather,6795.0
+New Balance,Fresh Foam 880v11,10,1,10.0,Grey,Mesh,9815.0
+Asics,Gel-Kayano Lite,10,0,9.5,Black,Mesh,12080.0
+Fila,Venom 94,5,1,7.5,White,Leather,5285.0
+Skechers,Summits,15,0,8.0,Grey,Mesh,4152.5
+Nike,Air Max 97,10,1,7.5,Silver,Leather,12835.0
